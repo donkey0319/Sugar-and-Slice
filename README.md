@@ -1,6 +1,6 @@
 Hello! 
 
-Here's the website to our game! https://gamebuilders-studio.itch.io/sugar-n-slice
+Here's the website to our game! https://gamebuilders-studio.itch.io/sugar-n-slice  
 The files are also in this repository. In order to play, you can just execute the .exe file (that is, mac users can't play this ;( )
 
 ![image](https://user-images.githubusercontent.com/106136532/213363491-182a9bfc-b126-4ab7-b2d4-483414391cf0.png)
