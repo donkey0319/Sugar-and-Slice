@@ -1,9 +1,23 @@
-#Hello! 
-
-Here's the website to our game! https://gamebuilders-studio.itch.io/sugar-n-slice  
-The files are also in this repository. In order to play, you can just execute the .exe file (that is, mac users can't play this ;( )
-
+# Sugar & Slice
 ![image](https://user-images.githubusercontent.com/106136532/213363491-182a9bfc-b126-4ab7-b2d4-483414391cf0.png)
+## Introduction
+#### This is "Sugan & Slice", a Halloween-theme roguelike game.
+
+Here's the website to our game! https://gamebuilders-studio.itch.io/sugar-n-slice. The game files are also in this repository. In order to play, you can just execute the .exe file (that is, mac users can't play this ;( )  
+
+I was in charge of making the 3D models (including the main character, enemies, and etc) in Blender.
+
+## How to Play
+* Use `W A S D` to move up, down, left, and right.
+* Use `LeftMouseButton` to basic attack, `RightMouseButton` to cast projectiles.
+* Press `Q` to cast a special attack.
+* Press `SPACE` to dash.
+
+Enjoy this game, have fun!
+
+## In-Game photos.
+
+
 
 ![image](https://user-images.githubusercontent.com/106136532/213361611-1a0fa617-8330-4d9b-8969-1df6e58ab078.png)
 
